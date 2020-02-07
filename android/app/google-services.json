@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "704825587851",
+    "firebase_url": "https://tipstertuyo.firebaseio.com",
+    "project_id": "tipstertuyo",
+    "storage_bucket": "tipstertuyo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704825587851:android:1272bea26932d138",
+        "android_client_info": {
+          "package_name": "com.example.tuyo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc2nXS9rqAUkJaSazaXScrk5Aw_ce9ias"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704825587851-hc237q0l57vojikd9qgepjfjghcc09bk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704825587851-2dits08j7fo0to75rbf91koa6andbmjv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.flutter.flutter.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
